@@ -1,0 +1,12 @@
+---
+title: "Welcome"
+about:
+  template: jolla  # Choose one of the supported templates
+  image: picpic.png
+---
+
+
+
+My name is Alison, and I’m a senior at UCLA majoring in Statistics & Data Science and Economics. Originally from Hong Kong, I’ve had the opportunity to intern in diverse fields, including fixed income and consulting, which have shaped my analytical and problem-solving skills. Outside of work, I enjoy cooking and hiking, activities that help me unwind and explore my creative side.
+
+[Download My Resume](resume.pdf){.btn .btn-primary}
